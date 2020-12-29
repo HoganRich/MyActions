@@ -56,4 +56,5 @@
 [@yangtingxiao](https://github.com/yangtingxiao) - 京东排行榜，天天提额
 
 [@Zero-S1](https://github.com/Zero-S1/xmly_speed) - 喜马拉雅极速版签到
-13点16分
+13点16分1212311
+pt_key=AAJf6zw_ASDASDASQEQWEHMKJAQ\\145-sX_iF_; pt_pin=jd6d; 
